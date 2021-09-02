@@ -7,7 +7,7 @@ from vk_api.longpoll import VkEventType
 from vk_api import VkUpload
 
 
-token = 'f463002ff78fde9987ae3387951e6aedda3186f664f4670e023ce13dda18400bac95bf779a81dbb41e4e4'
+token = ''
 
  
 vk = vk_api.VkApi(token = token)
